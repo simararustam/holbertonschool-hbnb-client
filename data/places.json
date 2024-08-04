@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "placeId": 1,
+      "name": "Statue of Liberty",
+      "host": "Liberty Host",
+      "price_per_night": 150,
+      "location": "New York, USA",
+      "description": "An iconic symbol of freedom in the United States.",
+      "amenities": ["WiFi", "Air Conditioning"],
+      "images": ["/static/assets/statue_of_liberty.jpg"],
+      "reviews": [
+        {
+          "user": "Jane Smith",
+          "text": "Great place to visit!",
+          "rating": 5
+        }
+      ],
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "placeId": 2,
+      "name": "Grand Canyon",
+      "host": "Canyon Host",
+      "price_per_night": 200,
+      "location": "Arizona, USA",
+      "description": "A breathtaking natural wonder in Arizona, USA.",
+      "amenities": ["WiFi", "Pool"],
+      "images": ["/static/assets/grand_canyon.jpg"],
+      "reviews": [
+        {
+          "user": "Robert Brown",
+          "text": "Amazing location and very comfortable.",
+          "rating": 5
+        }
+      ],
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "placeId": 3,
+      "name": "Statue of Liberty",
+      "description": "An iconic symbol of freedom in the United States.",
+      "country": "USA"
+    },
+    {
+      "id": 4,
+      "placeId": 4,
+      "name": "Grand Canyon",
+      "description": "A breathtaking natural wonder in Arizona, USA.",
+      "country": "USA"
+    },
+    {
+      "id": 5,
+      "placeId": 5,
+      "name": "CN Tower",
+      "description": "A famous landmark in Toronto, Canada.",
+      "country": "Canada"
+    },
+    {
+      "id": 6,
+      "placeId": 6,
+      "name": "Banff National Park",
+      "description": "A picturesque national park in the Canadian Rockies.",
+      "country": "Canada"
+    },
+    {
+      "id": 7,
+      "placeId": 7,
+      "name": "Chichen Itza",
+      "description": "A large pre-Columbian archaeological site in Mexico.",
+      "country": "Mexico"
+    },
+    {
+      "id": 8,
+      "placeId": 8,
+      "name": "Tulum",
+      "description": "A Mayan walled city serving as a port for Coba.",
+      "country": "Mexico"
+    },
+    {
+      "id": 9,
+      "placeId": 9,
+      "name": "Grand Palace",
+      "description": "A complex of buildings at the heart of Bangkok, Thailand.",
+      "country": "Thailand"
+    },
+    {
+      "id": 10,
+      "placeId": 10,
+      "name": "Phi Phi Islands",
+      "description": "A stunning archipelago in Thailand.",
+      "country": "Thailand"
+    },
+    {
+      "id": 11,
+      "placeId": 11,
+      "name": "Colosseum",
+      "description": "An ancient amphitheater in Rome, Italy.",
+      "country": "Italy"
+    },
+    {
+      "id": 12,
+      "placeId": 12,
+      "name": "Venice Canals",
+      "description": "Famous canals in Venice, Italy.",
+      "country": "Italy"
+    },
+    {
+      "id": 13,
+      "placeId": 13,
+      "name": "Eiffel Tower",
+      "description": "An iconic landmark in Paris, France.",
+      "country": "France"
+    },
+    {
+      "id": 14,
+      "placeId": 14,
+      "name": "Louvre Museum",
+      "description": "The world's largest art museum in Paris, France.",
+      "country": "France"
+    }
+  ]
